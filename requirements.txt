@@ -1,0 +1,4 @@
+numpy
+scikit-learn
+pandas
+# h5py  # only needed for the legacy --data-root (H5) path; CSV path does not use it
